@@ -30,3 +30,17 @@ Project Objectives
      -  How to compare models quantitatively (IoU, loss curves) and qualitatively (predicted masks).
      -  The importance of visualization for debugging and model interpretation.
 
+  #  Key Skills Demonstrated
+
+    - Deep learning architecture design (U-Net).
+    - Regularization (dropout, augmentation).
+    - Image preprocessing and mask generation.
+    - Evaluation with metrics and visual inspection.
+    -Reproducibility with Jupyter notebooks.
+
+   # Impact & Applications
+
+     - Applications in medical imaging, satellite image segmentation, and autonomous driving.
+      - Demonstrates ability to translate research architectures into working code, valuable for both academia and industry.
+     - Shows transferable skills in computer vision pipelines: preprocessing, training, evaluation, interpretability.
+
