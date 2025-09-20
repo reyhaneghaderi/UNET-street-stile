@@ -43,4 +43,10 @@ Project Objectives
      - Applications in medical imaging, satellite image segmentation, and autonomous driving.
       - Demonstrates ability to translate research architectures into working code, valuable for both academia and industry.
      - Shows transferable skills in computer vision pipelines: preprocessing, training, evaluation, interpretability.
+    # Research Extensions
+    Experiment with advanced architectures (Attention U-Net, U-Net++, DeepLab).
+    Investigate interpretability methods (Grad-CAM, feature attribution) to analyze model focus.
+    Explore fairness & robustness (how segmentation quality varies across image conditions).
+    # How to Run
+    
 
