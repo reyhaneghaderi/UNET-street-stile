@@ -25,8 +25,8 @@ Project Objectives
  Insight: Regularization (dropout + augmentation) significantly improves segmentation quality and robustness.
   # What I Learned
 
-    -  How to implement and train U-Net for semantic segmentation.
-     - Practical experience with regularization techniques to combat overfitting.
-     - How to compare models quantitatively (IoU, loss curves) and qualitatively (predicted masks).
-     -The importance of visualization for debugging and model interpretation.
+    -   How to implement and train U-Net for semantic segmentation.
+     -  Practical experience with regularization techniques to combat overfitting.
+     -  How to compare models quantitatively (IoU, loss curves) and qualitatively (predicted masks).
+     -  The importance of visualization for debugging and model interpretation.
 
